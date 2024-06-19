@@ -1,5 +1,5 @@
 # Inhalt
-### TYPO3 [a relative link](TYPO3.md)
+### TYPO3
 ### Shopware
 
 ## TYPO3
