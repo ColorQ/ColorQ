@@ -1,6 +1,6 @@
 # Inhalt
-### TYPO3 [[(TYPO3.md)](https://github.com/ColorQ/ColorQ/blob/master/TYPO3)](https://github.com/ColorQ/ColorQ/blob/master/TYPO3.md)
-### Shopware
+### TYPO3 (TYPO3.md)
+### Shopware (Shopware6.md)
 
 ## TYPO3
 ### Typo3 Tipps
