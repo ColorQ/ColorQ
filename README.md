@@ -1,6 +1,6 @@
 ## Typo3 Tipps
 ### Update auf v12
-#### Kein mailversand nacg Update auf T3 v11
+#### Kein mailversand nach Update auf T3 v11
 Lösung: Set Sender address to the same as [MAIL][defaultMailFromAddress]
 Quelle: https://stackoverflow.com/questions/56770424/forms-not-sending-emails-but-it-works-in-install-tools
 
