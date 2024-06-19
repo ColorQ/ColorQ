@@ -1,8 +1,8 @@
-##Inhalt
-###TYPO3
-###Shopware
+# Inhalt
+### TYPO3
+### Shopware
 
-##TYPO3
+## TYPO3
 ### Typo3 Tipps
 #### Update auf v12
 ##### Kein mailversand nach Update auf T3 v11
@@ -15,9 +15,14 @@ Update auf T3 v11.5:
    bzw. https://github.com/TYPO3/typo3/blob/11.5/typo3/sysext/install/Resources/Private/FolderStructureTemplateFiles/root-htaccess#L284)
 Das Konkatenieren und Komprimieren von css musste ausgeschaltet werden, js war nicht betroffen.
 
-##Shopware
-###Shopware 6
+## Shopware
+### Shopware 6
 #### Links zur SW-Doku
-composer.json: [[https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1Fscy1nbEhuZWJfbFlRR3IwNWtTTjhGZ0JEUXxBQ3Jtc0ttQUpScFVIWnBRUlIwRGRHQms5VTZHakY1SGN1N1JwVVE5Rlg4a3NwSHZvRzRqclNodEZiZ0ZIcGdfdjhHTGpadENRN0E2WXZJOWhReVIwY19QS0d2M1JndFVUa1cxTXdyZ1ZVeTUtazlZMVZqMlBYTQ&q=https%3A%2F%2Fdeveloper.shopware.com%2Fdocs%2Fguides%2Fplugins%2Fplugins%2Fplugin-base-guide%23create-the-plugin&v=Bv7zLemqU-o](https://developer.shopware.com/docs/guides/plugins/plugins/plugin-base-guide.html#create-the-plugin)](https://developer.shopware.com/docs/guides/plugins/plugins/plugin-base-guide.html#create-the-plugin)
-Theme Doku: https://developer.shopware.com/docs/guides/plugins/themes/theme-configuration.html
+
+##### composer.json: 
+https://developer.shopware.com/docs/guides/plugins/plugins/plugin-base-guide.html#create-the-plugin
+
+##### Theme Doku: 
+https://developer.shopware.com/docs/guides/plugins/themes/theme-configuration.html
+
 #### eigenes Theme
